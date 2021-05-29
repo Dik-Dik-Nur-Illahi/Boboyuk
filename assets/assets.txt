@@ -1,0 +1,27 @@
+---------------------------------------------------------------------------	   
+-------------------------------SUMBER ASSETS-------------------------------	   	
+---------------------------------------------------------------------------		   
+Framefork,CSS,JS : https://getbootstrap.com  ( Bootstrap versi 4 ) 
+								   
+Font : https://fontawesome.com , https://fonts.google.com	   
+								   
+Img :								    
+-Icons (About Us)   : https://www.biznetnetworks.com/id/	   
+-Jumbotron 	    : https://unsplash.com/photos/RYyr-k3Ysqg      
+-Pelanggan 	    : https://www.biznetnetworks.com/id/
+-Portfolio 	    : https://unsplash.com/
+
+Icons : https://fontawesome.com/v4.7.0/icons/
+
+Referensi video : 
+-https://www.youtube.com/channel/UCkXmLjEr95LVtGuIm3l2dPg ( Web Programming Unpas )
+-https://www.youtube.com/channel/UCYeyetu9B2QYrHAjJ5umN1Q ( System 22 I.T. Solutions )
+---------------------------------------------------------------------------
+-----------------------------Jagaddita Arya K------------------------------
+---------------------------------193040098---------------------------------
+---------------------------------KAMIS1030---------------------------------
+---------------------------------------------------------------------------
+
+
+
+
